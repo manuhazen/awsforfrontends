@@ -22,7 +22,7 @@ a:visited {
 a:hover {
   background-color: pink;
   color: black;
-  border-color: palevioletred;
+  border-color: salmon;
 }
 
 a:active {
@@ -91,7 +91,7 @@ a:active {
 }
 
 .note:global(.active) {
-  background-color: rgb(129, 255, 94);
+  background-color: rgb(129, 200, 94);
 }
 
 .note__body {
